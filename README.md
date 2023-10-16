@@ -9,4 +9,13 @@ Here are some tips for running EMSCNet:
      baidu_url: https://pan.baidu.com/s/1zqb08naP0RPqqfSXfkB2EA password: eu9f  
 3. If you have other problems about the article or the codes, please contact us by this email: zhaoyibo2027@163.com. Thanks for your support.
 
-
+**Bibtex**
+@ARTICLE{10086539,
+  author={Zhao, Yibo and Liu, Jianjun and Yang, Jinlong and Wu, Zebin},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={EMSCNet: Efficient Multisample Contrastive Network for Remote Sensing Image Scene Classification}, 
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-14},
+  doi={10.1109/TGRS.2023.3262840}}
