@@ -10,6 +10,7 @@ Here are some tips for running EMSCNet:
 3. If you have other problems about the article or the codes, please contact us by this email: zhaoyibo2027@163.com. Thanks for your support.
 
 **Bibtex**
+```
 @ARTICLE{10086539,
   author={Zhao, Yibo and Liu, Jianjun and Yang, Jinlong and Wu, Zebin},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
@@ -19,3 +20,4 @@ Here are some tips for running EMSCNet:
   number={},
   pages={1-14},
   doi={10.1109/TGRS.2023.3262840}}
+```
