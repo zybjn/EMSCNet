@@ -1,5 +1,5 @@
 # EMSCNet
-EMSCNet: Efficient Multi-Sample Contrastive Network for Remote Sensing Image Scene Classification
+The code of EMSCNet: Efficient Multi-Sample Contrastive Network for Remote Sensing Image Scene Classification - TGRS
 
 Here are some tips for running EMSCNet:  
 1. AID, NWPU, and UCM data sets should be placed in the data directory.  
